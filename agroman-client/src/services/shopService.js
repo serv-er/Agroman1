@@ -1,7 +1,8 @@
 export const getNearbyShops = async (lat, lng) => {
 
   const res = await fetch(
-    `http://localhost:5000/api/shops?lat=${lat}&lng=${lng}`
+    `${import.meta.env.VITE_BACKEND_URL}/api/shops?lat=${lat}&lng=${lng}`
+    
   );
 
   return res.json();
