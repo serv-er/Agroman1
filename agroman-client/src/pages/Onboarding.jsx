@@ -10,7 +10,7 @@ function Onboarding() {
 
   const [formData, setFormData] = useState({
     language: "",
-    name: "",
+    name: "", 
     village: "",
     district: "",
     state: "",

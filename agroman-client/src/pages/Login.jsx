@@ -31,7 +31,7 @@ function Login() {
       <div className="bg-white p-8 rounded-3xl shadow-xl w-full max-w-md">
 
         <h1 className="text-4xl font-bold text-center text-green-700 mb-3">
-          Agropreneur 🌾
+          Agroman 🌾
         </h1>
 
         <p className="text-center text-gray-500 mb-8">
@@ -59,3 +59,5 @@ function Login() {
 }
 
 export default Login;
+
+

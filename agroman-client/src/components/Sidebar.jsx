@@ -59,7 +59,7 @@ function Sidebar() {
     <div className="w-[280px] bg-green-700 text-white min-h-screen p-6">
 
       <h1 className="text-3xl font-bold mb-10">
-        Agropreneur 🌾
+        Agroman 🌾
       </h1>
 
       <div className="space-y-3">
